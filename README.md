@@ -1,7 +1,6 @@
-# Spatiotemporal Vision Transformer
+## Video Summarization With Spatiotemporal Vision Transformer
 
-##Video Summarization With Spatiotemporal Vision Transformer
-
+![image](Flowchart.png)
 The paper is under review.
 The source code will be available soon. 
 
