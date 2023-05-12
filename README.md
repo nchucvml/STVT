@@ -22,7 +22,8 @@ please put them into "./STVT/datasets/datasets"
 ## Instructions for Code:
 
 ```
-train.py --roundtimes save_name --dataset TVSum/SumMe
+cd STVT
+train.py --roundtimes save_name --dataset TVSum or SumMe
 ```
 the eval is include in training.py   
 ## Requirements
