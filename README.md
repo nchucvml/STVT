@@ -1,3 +1,5 @@
+# STVT (spatiotemporal vision transformer)
+
 ## Video Summarization With Spatiotemporal Vision Transformer
 
 ![image](Flowchart.png)
@@ -8,8 +10,9 @@ The source code will be available soon.
 
 ## Usage
 
-# First, download the dataset file  
-prepared .h5 file download  
+First, download the dataset file  
+
+Prepared .h5 file   
 Sum Me  
 https://drive.google.com/file/d/192n-CPd_cQ9ac6hRpq1rbYefslGGl9Wf/view?usp=share_link  
 TV SUM  
