@@ -9,9 +9,9 @@ The source code will be available soon.
 
 ## Usage
 
-Sum Me
+Sum Me.
 https://drive.google.com/file/d/192n-CPd_cQ9ac6hRpq1rbYefslGGl9Wf/view?usp=share_link.
-TV SUM
+TV SUM.
 https://drive.google.com/file/d/1ZmMSgyNt-np1Se3ggrShUhPS-uzxRv-n/view?usp=share_link.
 
 ## Instructions for Code:
