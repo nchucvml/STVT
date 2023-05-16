@@ -32,7 +32,7 @@ torchsummary                1.5.1
 torchvision                 0.8.2+cu101
 torchviz                    0.0.2
 ```
-The other detail
+The other details
 ```
 absl-py                     1.0.0
 anyio                       3.5.0
