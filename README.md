@@ -7,6 +7,8 @@ The paper is published in IEEE Transactions on Image Processing.
 
 https://ieeexplore.ieee.org/document/10124837
 
+Video summarization aims to generate a compact summary of the original video for efficient video browsing. We propose a novel transformer-based method named spatiotemporal vision transformer (STVT) for video summarization. The STVT is composed of three dominant components including the embedded 15 sequence module, temporal inter-frame attention (TIA) encoder, and spatial intra-frame attention (SIA) encoder. The embedded sequence module generates the embedded sequence by fusing the frame embedding, index embedding and segment class embedding to represent the frames. The temporal inter-frame correlations among non-adjacent frames are learned by the TIA encoder with the multi-head self-attention scheme. Then, the spatial intra-frame attention of each frame is learned by the SIA encoder. Finally, a multi-frame loss is computed to drive the learning of the network in an end-to-end trainable manner. By simultaneously using both inter-frame and intra-frame information, our method outperforms state-of-the-art methods in both of the SumMe and TVSum datasets. 
+
 ## Usage
 
 First, download the dataset file  
