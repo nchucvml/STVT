@@ -3,7 +3,7 @@
 ## Video Summarization With Spatiotemporal Vision Transformer
 
 ![image](Flowchart.png)
-The paper is published in IEEE Transactions on Image Processing.
+The paper is published in IEEE Transactions on Image Processing, 2023.
 
 https://ieeexplore.ieee.org/document/10124837
 
