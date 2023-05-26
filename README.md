@@ -22,14 +22,15 @@ TVSum in CVPR'15 [30]
 
 https://drive.google.com/file/d/1ZmMSgyNt-np1Se3ggrShUhPS-uzxRv-n/view?usp=share_link  
 
-please put them into "./STVT/datasets/datasets"  
+Please put them into "./STVT/datasets/datasets"  
 ## Instructions for Code:
 
 ```
 cd STVT
 train.py --roundtimes save_name --dataset TVSum or SumMe
 ```
-the eval is include in training.py   
+The eval is included in training.py   
+
 ## Requirements
 The most important packages:
 ```
