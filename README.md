@@ -1,4 +1,4 @@
-# STVT (spatiotemporal vision transformer)
+# STVT (Spatiotemporal Vision Transformer)
 
 ## Video Summarization With Spatiotemporal Vision Transformer
 
